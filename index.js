@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing Play.abyssalpvp.eu"];
+const statusMessages = ["Wactching Xrealm"];
 
 
 let currentIndex = 0;
